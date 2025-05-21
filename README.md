@@ -40,5 +40,5 @@ This Flutter Shopping App is a modern, responsive mobile application designed to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flutter-shopping-app.git
+  git clone https://github.com/yourusername/flutter-shopping-app.git](https://github.com/Unluck-rider/E-commerce
    cd flutter-shopping-app
