@@ -4,7 +4,8 @@
 This Flutter Shopping App is a modern, responsive mobile application designed to provide users with a seamless shopping experience. The app supports user authentication (login and registration), secure payment processing, and adaptive layouts for both mobile and tablet devices. It is built with clean architecture and offers smooth UI/UX for effortless shopping on the go.
 
 ---
-
+## Screenshots
+<img src="https://github.com/user-attachments/assets/c0758691-4a2e-45a2-a55f-f319cc0537da" width="300" height="500" />
 ## Features
 
 ### 1. User Authentication
