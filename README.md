@@ -7,10 +7,9 @@ This Flutter Shopping App is a modern, responsive mobile application designed to
 ## Screenshots
    ## Onboard Screens   
 <img src="https://github.com/user-attachments/assets/63771831-ddc6-4791-a205-25953e7b4498" width="300" height="600" />      <img src="https://github.com/user-attachments/assets/2e68d7a7-4785-4eb1-8e8f-42bb74717188" width="300" height="600" />      <img src="https://github.com/user-attachments/assets/053788a4-0eef-4a97-a0a8-a68f02bf3c05" width="300" height="600" />  
-   ## Login Screens
-<img src="https://github.com/user-attachments/assets/7a83d573-a9f3-47c5-af27-19789f3ed430" width="300" height="600" /> 
-   ## Register Screens
-<img src="https://github.com/user-attachments/assets/d4408a83-83cf-4676-ae31-2544172ad56c" width="300" height="600" /> 
+   ## Login & Register Screens
+<img src="https://github.com/user-attachments/assets/7a83d573-a9f3-47c5-af27-19789f3ed430" width="300" height="600" />  <img src="https://github.com/user-attachments/assets/d4408a83-83cf-4676-ae31-2544172ad56c" width="300" height="600" /> 
+
 ## Features
 
 ### 1. User Authentication
